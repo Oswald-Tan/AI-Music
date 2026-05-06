@@ -1,0 +1,5 @@
+backend/node_modules
+machine_py/venv
+backend/.env
+node_modules
+.env
